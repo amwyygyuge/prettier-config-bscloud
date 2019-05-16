@@ -1,0 +1,19 @@
+{
+  "name": "prettier-config-bscloud",
+  "version": "1.0.0",
+  "description": "perttier for bacloud-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amwyygyuge/prettier-config-bscloud.git"
+  },
+  "author": "junxiong.cai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amwyygyuge/prettier-config-bscloud/issues"
+  },
+  "homepage": "https://github.com/amwyygyuge/prettier-config-bscloud#readme"
+}
