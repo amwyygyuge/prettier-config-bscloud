@@ -6,5 +6,6 @@ module.exports = {
 	semi: false,
 	trailingComma: 'none',
 	bracketSpacing: true,
-	parser: 'babylon'
+	parser: 'babylon',
+	noSpaceEmptyFn: true
 }
